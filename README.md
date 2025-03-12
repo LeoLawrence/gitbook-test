@@ -16,7 +16,7 @@ icon: hand-wave
 
 * All headings are currently used to name each link. There are no subdirectories for this test
 * The initial README file uploads as the home directory "/" instead of "/README"
-* Groups show up as folders on GitHub
+* Groups show up as folders on GitHub. Folders in folders do not show up (at least, for the free version) so any content in nested folders does not transfer from GitHub
 * Bidirectional syncing looks good. It may change some formatting since it knows markdown syntax better than I do
 
 ## Future testing:
