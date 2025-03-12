@@ -16,8 +16,11 @@ icon: hand-wave
 
 * All headings are currently used to name each link. There are no subdirectories for this test
 * The initial README file uploads as the home directory "/" instead of "/README"
+* Groups show up as folders on GitHub
+* Bidirectional syncing looks good. It may change some formatting since it knows markdown syntax better than I do
 
 ## Future testing:
 
 * I need to test how this looks on a pre-existing GitBooks site. If I were to sync with a current site, would all the MD files appear on GitHub?
 * Robustness. The current site only has one layer of headings, so everything is arranged in one level. With subdirectories, how would this work? (I believe this test would require a premium site)
+* Folders in folders?
